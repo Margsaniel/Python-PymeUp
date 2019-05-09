@@ -2,4 +2,4 @@
 
 ## PyBank
 
-![imageofterminal](Images/Pybankscreenshot.png)
+![imageofterminal](Images/Pybank.png)
